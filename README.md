@@ -25,7 +25,7 @@ Action 3: Assessing Menu Popularity and Operational Performance
 Finally, we analyzed product performance and service efficiency to pinpoint areas for optimization.
 Result 3: Dominant Cuisines and Delivery Speed
 The bar chart leaves no doubt about customer preferences.
-Key Insight: Japanese cuisine is the undisputed favorite, dramatically outperforming all other categories. This indicates a massive opportunity for targeted promotions, menu expansions, and strategic partnerships with Japanese restaurants.
+Key Insight: American cuisine is the undisputed favorite, dramatically outperforming all other categories. This indicates a massive opportunity for targeted promotions, menu expansions, and strategic partnerships with America cuisine restaurants.
 ![alt text](https://raw.githubusercontent.com/LonnieSly/Machine-Learning-Customer-Segmentation-with-K-Means/main/top_cuisine.png)
 On the operational front, delivery time is a cornerstone of customer satisfaction.
 Key Insight: The average delivery time currently stands at 24 minutes. This metric is a critical KPI for measuring operational efficiency and should be continuously monitored to maintain a competitive edge.
