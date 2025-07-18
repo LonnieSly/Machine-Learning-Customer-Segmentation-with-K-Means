@@ -35,10 +35,10 @@ This data-driven investigation leads to several clear, actionable recommendation
 For Marketing:
 Develop a Loyalty Program: Create an exclusive rewards program for the "Loyal" customer segment to maximize retention and lifetime value.
 Targeted Campaigns: Design campaigns to convert "Regular" customers into "Loyal" ones by encouraging higher frequency and spend.
-Promote the Winner: Heavily feature Japanese cuisine in all marketing channels, from email newsletters to in-app banners.
+Promote the Winner: Heavily feature American cuisine in all marketing channels, from email newsletters to in-app banners.
 For Business Development:
-Strengthen Partnerships: Deepen relationships with top-performing Japanese restaurants.
-Expand the Menu: Actively seek out new, high-quality Japanese restaurants to add to the platform to meet the clear market demand.
+Strengthen Partnerships: Deepen relationships with top-performing American cuisine restaurants.
+Expand the Menu: Actively seek out new, high-quality American restaurants to add to the platform to meet the clear market demand.
 For Operations:
 Maintain Speed: Use the 24-minute average delivery time as a core performance benchmark for all operational teams.
 Investigate Variance: Analyze delivery times by location, time of day, and restaurant to identify and address any sources of delay.
