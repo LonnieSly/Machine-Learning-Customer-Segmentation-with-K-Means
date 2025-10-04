@@ -1,3 +1,23 @@
+## 🚀 Overview
+This project applies **K-Means Clustering** to perform customer segmentation using transactional data.  
+The goal is to group customers based on purchasing behavior, enabling businesses to tailor marketing strategies, loyalty programs, and promotions effectively.  
+
+Originally built as a **data analytics + machine learning project**, it now also demonstrates how these methods can be extended with **Oracle AI & Generative AI concepts** for smarter insights and personalization.  
+
+---
+
+## 📜 Certifications & Skills Highlighted
+This repository also showcases my applied knowledge from:
+- ✅ OCI **AI Foundations Associate**
+- ✅ OCI **Generative AI Professional**
+
+With these certifications, I can:
+- Simulate how **Generative AI** could create customer personas or generate targeted marketing copy for each segment.  
+- Explore **AI-assisted insights** to complement traditional ML segmentation.  
+- Extend clustering results into **real-world Oracle AI use cases**, even without access to a paid environment.  
+
+---
+
 Project: Data-Driven Optimization for a Food Delivery Service
 This repository documents a comprehensive data analysis of a food delivery service. The project leverages customer order history to uncover actionable insights into customer behavior, operational efficiency, and menu popularity. The goal is to transform raw data into a strategic asset that can drive business growth, enhance customer satisfaction, and optimize marketing efforts.
 1. The Challenge: A Problem of Untapped Data
@@ -58,3 +78,6 @@ Python
 Pandas for data manipulation and analysis.
 Matplotlib & Seaborn for data visualization.
 Google Colaboratory for the interactive development environment.
+
+## 🔮 OCI Extras
+See the folder [`Gen_AI_Updates`](./oci-extras) for ideas on how this segmentation project could be extended with Oracle AI capabilities, including **Generative AI workflows** and **AI-driven personalization**.
